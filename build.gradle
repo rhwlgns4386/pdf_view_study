@@ -33,6 +33,7 @@ dependencies {
     testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
     implementation 'com.itextpdf:html2pdf:6.1.0'
     // https://mvnrepository.com/artifact/org.apache.poi/poi
+    // 엑셀 생성 라이브러리
     implementation("org.apache.poi:poi:5.4.0")
 }
 
